@@ -1,30 +1,9 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruban%20Kumar%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Linux%20%7C%20Security&descAlignY=55&descAlign=50" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+AI+%26+Data+Science+%40+REC;Linux+Daily+Driver+%F0%9F%90%A7;Cybersecurity+Explorer+%F0%9F%94%90;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Space+Tech+Intern+%40+Indian+Space+Academy)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ruban-kumar-r-12bb42331)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubankumar.r.08@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rubankumar_r_08)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rubankumarr241801234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AeOG56W4qE/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Ruban-Rk/ruban-portfolio)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ruban-Rk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruban%20Kumar%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Linux%20%7C%20Security&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
----
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### ✦ About Me
 
@@ -39,9 +18,6 @@ ruban = {
     "currently"  : "Learning deeply. Building consistently.",
     "goal"       : "Ship things that actually solve problems 🚀"
 }
-```
-
-<br clear="right"/>
 
 ---
 
