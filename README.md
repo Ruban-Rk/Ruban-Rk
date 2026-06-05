@@ -1,14 +1,21 @@
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruban%20Kumar%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Linux%20%7C%20Security&descAlignY=55&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruban%20Kumar%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Linux%20%7C%20Security&descAlignY=55&descAlign=50" />
+<br/>
+Show Image
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
 </div>
 
-<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-### ✦ About Me
-
-```python
-ruban = {
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+✦ About Me
+pythonruban = {
     "name"       : "Ruban Kumar R",
     "college"    : "Rajalakshmi Engineering College",
     "degree"     : "B.Tech AI & Data Science (2024–2028)",
@@ -18,7 +25,7 @@ ruban = {
     "currently"  : "Learning deeply. Building consistently.",
     "goal"       : "Ship things that actually solve problems 🚀"
 }
-
+<br clear="right"/>
 ---
 
 ### 🛠️ Tech Stack
